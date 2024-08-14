@@ -1,0 +1,77 @@
+*{
+    margin: 3px;
+    padding: px;
+}
+body{
+    height: 40px;
+
+}
+.logo{
+    display: flex;
+    gap: 0px;
+
+}
+.one{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.icon{
+    display: flex;
+    gap: 30px;
+}
+.hero{
+position: relative;
+}
+.def{
+    position: absolute;
+    top:200px;
+    left:750px;
+}
+.ger{
+text-align: center;
+margin: 0px;
+}
+.boy{
+    display: flex;
+    justify-content: center;
+    text-align: center;}
+.set{
+    display: flex;
+    justify-content: center;
+}
+.gene{
+    display: flex;
+    justify-content: center;
+}
+.gene2{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+.show{
+border:1px solid#B88E2F;
+color: #B88E2F;
+font-size: smaller;
+width:95px;
+height: 15px;
+position: absolute;
+left: 45%;
+}
+.inspo{
+position: absolute;
+left: 152px;
+}
+.sh1{
+    justify-content: center;
+    text-align: center;
+}
+.mage{
+    display: flex;
+}
